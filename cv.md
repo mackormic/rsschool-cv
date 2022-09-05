@@ -27,7 +27,8 @@ Stop war!
 ## Hobby
 
 - sports
-  - floorball ![floorball](floorball.jpg)
+  - floorball
+    ![floorball](floorball.jpg)
   - football
   - tennis
   - snowbord
