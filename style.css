@@ -123,3 +123,6 @@ legend {
 }
 
 /* основные стили */
+.super {
+  color: red;
+}
